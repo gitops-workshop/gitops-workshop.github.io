@@ -8,8 +8,8 @@ For the hands-on, now’s a good time to:
 4. Install a package manager (e.g. Brew/Chocolatey)
 5. Install Git
 
-[Code examples](https://github.com/gitops-workshop)
+### Resources
 
-[The Argo CD instance](http://bit.ly/argocd-kubecon)
-
-[The slides and presentation info](https://sched.co/Uaee)
+* [Code examples](https://github.com/gitops-workshop)
+* [The Argo CD instance](http://bit.ly/argocd-kubecon)
+* [The slides and presentation info](https://sched.co/Uaee)
