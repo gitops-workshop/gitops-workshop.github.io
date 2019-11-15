@@ -11,3 +11,5 @@ For the hands-on, now’s a good time to:
 All code examples are at https://github.com/gitops-workshop. 
 
 The Argo CD instance is at http://bit.ly/argocd-kubecon.
+
+The slides and location can be found at https://sched.co/Uaee
