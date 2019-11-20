@@ -2,7 +2,7 @@
 
 For the hands-on, now’s a good time to:
 
-1. [Join our Slack](http://bit.ly/argocd-slack)
+1. [Join our Slack](http://bit.ly/argocd-slack) (#gitops-workshop)
 2. Login in to [github.com](github.com)
 3. Test cloning and pushing code to github.com
 4. Install a package manager (e.g. Brew/Chocolatey)
